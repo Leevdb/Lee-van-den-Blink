@@ -4,6 +4,8 @@
 
 <b>Result: ISFJ -A-T personality type - “The Defender” </b>
 
+<img src="Defender.png" alt="The Defender">
+
 <i>Image: Myers-Briggs Results - The Defender ISFJ-A</i>
 https://www.16personalities.com/profiles/d55ee484a7f41
 
@@ -11,6 +13,7 @@ https://www.16personalities.com/profiles/d55ee484a7f41
 ### Online learning style results
 <b> Result: Equal parts Auditory and Visual </b>
 
+<img src="LearnStyle.png" alt="Learning Style">
 <i>Image: Learning Style Results - Auditory/Visual learner</i>
 
 http://www.educationplanner.org/students/self-assessments/learning-styles-quiz.shtml
@@ -22,13 +25,12 @@ http://www.educationplanner.org/students/self-assessments/learning-styles-quiz.s
 Strongest areas: Curiosity, Complexity, Paradox
 Weakest areas: Boldness, Connection, Persistence
 
+<img src="Creative1.png" alt="Results">
+<img src="Creative2.png" alt="Explanation">
 <i>Image 9: Creativity test score</i>
 
 
-
-
 http://www.testmycreativity.com/
-
 
 
 ## What do the results of these tests mean for you?
