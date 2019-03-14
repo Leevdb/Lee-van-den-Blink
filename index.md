@@ -30,8 +30,6 @@ work part time as an administration and compliance officer at a Registered Train
 and we specialise in delivering VET qualifications in vocational music industry qualifications to schools across australia through 
 auspice arrangements.
 
-<i>Image: My family</i> 
-
 I have a lot of different interests, but my biggest passion is video games and I can easily become absolutely absorbed in the 
 worlds and characters.  I seek out the soundtracks and listen to them when  running or driving, or even doing the dishes.  It's 
 fun to make day to day tasks feel more inspired  with an epic soundtrack! I believe this involvement with story telling keeps my 
@@ -52,8 +50,9 @@ I’ve been interested and familiar with computers since a very young age.  I us
 on my parent's old 486 computer when I was 8, and improved quickly at typing due to all those ‘look at X..’ and ‘use X’ commands. 
 My interest has only grown since then. 
 
-
+<img src="Rosella.png" alt="The Perils of Rosella">
 <i>Image: Rule number 1 of old school adventure games - Make sure you save before you do ANYTHING.  </i>
+
 https://www.rockpapershotgun.com/2018/04/25/kings-quest-iv-a-love-letter-from-my-3-year-old-heart/
 
 
@@ -81,8 +80,9 @@ of what the IT consultants would recommend, although on a somewhat rudimentary l
 between people and systems.  I love extracting and reporting on data and providing insight into the business based on what the 
 database reports.  
 
+<img src="Cake.png" alt="Data Cake">
+<i>Image: I think Mark Johnstone’s data cake graphic sums up data analysis really well.</i>
 
-<i>Image:  I think Mark Johnstone’s data cake graphic sums up data analysis really well.</i>
 http://markjohnstone.co/data-cake/
 
 
@@ -145,6 +145,7 @@ Looking past the location requirement, I found a job listing with ZeniMax Media 
 
 
 <hr>
+
 ### References
 
 
