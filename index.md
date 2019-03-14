@@ -21,7 +21,7 @@
 
 <b>Certificate III in Business Administration</b>, 2007 - Link Employment and Training
 
-<b>Kilvington Girls Grammar<b/> - Completed VCE certificate, 1997 - 1998
+<b>Kilvington Girls Grammar</b> - Completed VCE certificate, 1997 - 1998
 
 I’m 38 years old, and live with my husband and two young girls.  Melbourne born and raised, my first job after high school was 
 general administration at an importing company as a shipping clerk.  I then moved into the vocational education sector, starting at 
@@ -78,8 +78,6 @@ between people and systems.  I love extracting and reporting on data and providi
 database reports.  
 
 
-
-
-
-
-
+<a href="https://leevdb.github.io/Lee-van-den-Blink/profile.md">My Personal Profile</a>
+<a href="https://leevdb.github.io/Lee-van-den-Blink/Project.md">My Project Idea</a>
+<a href="https://leevdb.github.io/Lee-van-den-Blink/">Back to the home page</a>
