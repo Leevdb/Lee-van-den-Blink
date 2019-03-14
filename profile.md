@@ -7,7 +7,7 @@
 <img src="Defender.png" alt="The Defender">
 
 <i>Image: Myers-Briggs Results - The Defender ISFJ-A</i>
-https://www.16personalities.com/profiles/d55ee484a7f41
+<a href="https://www.16personalities.com/profiles/d55ee484a7f41">https://www.16personalities.com/profiles/d55ee484a7f41</a>
 
 
 ### Online learning style results
@@ -16,7 +16,7 @@ https://www.16personalities.com/profiles/d55ee484a7f41
 <img src="LearnStyle.png" alt="Learning Style">
 <i>Image: Learning Style Results - Auditory/Visual learner</i>
 
-http://www.educationplanner.org/students/self-assessments/learning-styles-quiz.shtml
+<a href="http://www.educationplanner.org/students/self-assessments/learning-styles-quiz.shtml">http://www.educationplanner.org/students/self-assessments/learning-styles-quiz.shtml</a>
 
 
 
