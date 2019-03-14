@@ -2,7 +2,7 @@
 
 ## Lee van den Blink
 - RMIT Student # 3792973
-- RMIT Email: s3792973@student.rmit.edu.au<
+- RMIT Email: s3792973@student.rmit.edu.au
 - Personal email lee.vandenblink@gmail.com
 - Language spoken: English
 - Religion: Atheist
