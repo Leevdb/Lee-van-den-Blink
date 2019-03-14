@@ -142,3 +142,24 @@ Looking past the location requirement, I found a job listing with ZeniMax Media 
 <p><a href="https://leevdb.github.io/Lee-van-den-Blink/profile">My Personal Profile</a></p>
 <p><a href="https://leevdb.github.io/Lee-van-den-Blink/Project">My Project Idea</a></p>
 <p><a href="https://leevdb.github.io/Lee-van-den-Blink/">Back to the home page</a></p>
+
+
+<hr>
+### References
+
+
+https://www.rockpapershotgun.com/2018/04/25/kings-quest-iv-a-love-letter-from-my-3-year-old-heart/
+http://markjohnstone.co/data-cake/
+https://jobs.zenimax.com/requisitions/view/76 
+https://jobs.zenimax.com/requisitions/view/2080
+https://www.tableau.com/learn/training
+https://www.tableau.com/learn/training/elearning 
+https://www.16personalities.com/profiles/d55ee484a7f41
+http://www.educationplanner.org/students/self-assessments/learning-styles-quiz.shtml
+http://www.testmycreativity.com/
+https://www.gamesave-manager.com/
+
+
+
+
+
