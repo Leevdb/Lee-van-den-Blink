@@ -33,10 +33,10 @@ I also really love listening to podcasts in my spare time as they are a great wa
 
 ### When did your interest in IT start?
 
-I’ve been interested and familiar with computers since a very young age.  I used to play King's quest iv: The Perils of Rosella on my parent's old 486 computer when I was 8, and improved quickly at typing due to all those ‘look at X..’ and ‘use X’ commands. My interest has only grown since then. 
+I’ve been interested and familiar with computers since a very young age.  I used to play King's quest iv: The Perils of Rosella on my parent's old 486 computer when I was 8, and improved quickly at typing due to all those ‘look at X’ and ‘use X’ commands. My interest has only grown since then. 
 
 <p><img src="Rosella.png" alt="The Perils of Rosella"> </p>
-<p><i>Image: Rule number 1 of old school adventure games - Make sure you save before you do ANYTHING.  </i></p>
+<p><i>Image: Rule # 1 of 80's adventure games - Make sure you save before you do ANYTHING.  </i></p>
 
 https://www.rockpapershotgun.com/2018/04/25/kings-quest-iv-a-love-letter-from-my-3-year-old-heart/
 
