@@ -6,7 +6,7 @@
 
 <img src="Defender.png" alt="The Defender">
 
-<i>Image: Myers-Briggs Results - The Defender ISFJ-A</i>
+<p><i>Image: Myers-Briggs Results - The Defender ISFJ-A</i></p>
 <a href="https://www.16personalities.com/profiles/d55ee484a7f41">https://www.16personalities.com/profiles/d55ee484a7f41</a>
 
 
@@ -14,7 +14,7 @@
 <b> Result: Equal parts Auditory and Visual </b>
 
 <img src="LearnStyle.png" alt="Learning Style">
-<i>Image: Learning Style Results - Auditory/Visual learner</i>
+<p><i>Image: Learning Style Results - Auditory/Visual learner</i></p>
 
 <a href="http://www.educationplanner.org/students/self-assessments/learning-styles-quiz.shtml">http://www.educationplanner.org/students/self-assessments/learning-styles-quiz.shtml</a>
 
@@ -27,10 +27,10 @@ Weakest areas: Boldness, Connection, Persistence
 
 <img src="Creative1.png" alt="Results">
 <img src="Creative2.png" alt="Explanation">
-<i>Image 9: Creativity test score</i>
+<p><i>Image 9: Creativity test score</i></p>
 
 
-http://www.testmycreativity.com/
+<a href="http://www.testmycreativity.com/"> http://www.testmycreativity.com/</a>
 
 
 ## What do the results of these tests mean for you?
