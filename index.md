@@ -103,15 +103,18 @@ The reason I have chosen Bachelor of IT is I don’t want to limit myself to vid
 When initially looking for my ideal job I originally found a data analyst role that I thought suited me (<a href="Ideal_Job2">You can read more about that thought experiment here</a>) , however after thinking about my test results and the sort of work I really enjoy, I continued searching and found the following role, which I believe I would actually enjoy more.  The main reason for the change is I realised that the data analyst role didn’t have as much scope for creativity and presenting original ideas as the Game Programmer role suggests, and I also think I would really enjoy the problem solving element that being a programmer would provide.
 
 ### Job Title - Game Programmer
+
 <b>Company: ZeniMax Media Inc. - Bethesda Game Studios</b>
 
 Link: https://jobs.zenimax.com/requisitions/view/76 
 
 
-<img src="GameProg.png" alt="Game Programmer Listing">
+<img src="GameProgammer.png" alt="Game Programmer Listing">
+
 <i>Image 4: Game Programmer job listing</i>
 
 <b>Position Description:</b>
+
 Looking past the location requirement, I found a job listing with ZeniMax Media for a Game Programmer.  The role is working in a team to write and develop specific code for a larger game project.  There would be a lot of solo programming work while also working closely with many other areas of game development.  
 
 
@@ -149,7 +152,6 @@ Looking past the location requirement, I found a job listing with ZeniMax Media 
 <hr>
 
 ### References
-
 
 https://www.rockpapershotgun.com/2018/04/25/kings-quest-iv-a-love-letter-from-my-3-year-old-heart/
 http://markjohnstone.co/data-cake/
