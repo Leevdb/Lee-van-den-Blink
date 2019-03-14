@@ -38,7 +38,7 @@ I’ve been interested and familiar with computers since a very young age.  I us
 <p><img src="Rosella.png" alt="The Perils of Rosella"> </p>
 <p><i>Image: Rule # 1 of 80's adventure games - Make sure you save before you do ANYTHING.  </i></p>
 
-<a href="https://www.rockpapershotgun.com/2018/04/25/kings-quest-iv-a-love-letter-from-my-3-year-old-heart/"></a>
+<a href="https://www.rockpapershotgun.com/2018/04/25/kings-quest-iv-a-love-letter-from-my-3-year-old-heart/">https://www.rockpapershotgun.com/2018/04/25/kings-quest-iv-a-love-letter-from-my-3-year-old-heart/</a>
 
 
 Being around computers from a young age made them very normal for me, and I think my natural tendency to try and organise and understand things in my head made understanding computers and how they worked a little easier.  
@@ -54,7 +54,7 @@ I’ve worked with 3 different RTOs over the last decade or so and have learnt a
 <p><img src="Cake.png" alt="Data Cake"> </p>
 <i>Image: I think Mark Johnstone’s data cake graphic sums up data analysis really well.</i>
 
-<a href="http://markjohnstone.co/data-cake/"></a>
+<a href="http://markjohnstone.co/data-cake/">http://markjohnstone.co/data-cake/</a>
 
 
 I’ve also been heavily involved in system migration and have ran introductory training session for system migrations.  The first was moving from  Microsoft exchange to the Gmail Suitel, and again when we switched our Student Management System (SMS) software providers.  Also being involved with student management systems and RTO reporting rules,  there is a significant  amount of data error troubleshooting, and I have always enjoyed solving those puzzles.
@@ -77,7 +77,7 @@ When initially looking for my ideal job I originally found a data analyst role t
 
 <b>Company: ZeniMax Media Inc. - Bethesda Game Studios</b>
 
-<a href="https://jobs.zenimax.com/requisitions/view/76"></a> 
+<a href="https://jobs.zenimax.com/requisitions/view/76"> https://jobs.zenimax.com/requisitions/view/76 </a>
 
 
 <img src="GameProgrammer.png" alt="Game Programmer Listing">
