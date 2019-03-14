@@ -107,6 +107,8 @@ When initially looking for my ideal job I originally found a data analyst role t
 
 Link: https://jobs.zenimax.com/requisitions/view/76 
 
+
+<img src="GameProg.png" alt="Game Programmer Listing">
 <i>Image 4: Game Programmer job listing</i>
 
 <b>Position Description:</b>
