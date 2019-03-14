@@ -2,13 +2,13 @@
 
 This was my initial choice for my "Ideal Job".  I still think it would be a very interesting and rewarding role for me, and I definetly think it would still be learning a lot more about y skills stion into what
 
-<b>Job title: Data Analyst</b>
+<b>Job title: Data Analyst
 
-Company: ZeniMax Media Inc. - Bethesda Game Studios
+Company: ZeniMax Media Inc. - Bethesda Game Studios </b>
 
 Link: https://jobs.zenimax.com/requisitions/view/2080
 
-<i>Image:Data Analyst Job Listing</i>
+<i>Image: Data Analyst Job Listing</i>
   
 <b>Position Description:</b>
 
