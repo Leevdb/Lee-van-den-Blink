@@ -109,7 +109,7 @@ When initially looking for my ideal job I originally found a data analyst role t
 Link: https://jobs.zenimax.com/requisitions/view/76 
 
 
-<img src="GameProgammer.png" alt="Game Programmer Listing">
+<img src="GameProgrammer.png" alt="Game Programmer Listing">
 
 <i>Image 4: Game Programmer job listing</i>
 
@@ -153,16 +153,16 @@ Looking past the location requirement, I found a job listing with ZeniMax Media 
 
 ### References
 
-https://www.rockpapershotgun.com/2018/04/25/kings-quest-iv-a-love-letter-from-my-3-year-old-heart/
-http://markjohnstone.co/data-cake/
-https://jobs.zenimax.com/requisitions/view/76 
-https://jobs.zenimax.com/requisitions/view/2080
-https://www.tableau.com/learn/training
-https://www.tableau.com/learn/training/elearning 
-https://www.16personalities.com/profiles/d55ee484a7f41
-http://www.educationplanner.org/students/self-assessments/learning-styles-quiz.shtml
-http://www.testmycreativity.com/
-https://www.gamesave-manager.com/
+<p> https://www.rockpapershotgun.com/2018/04/25/kings-quest-iv-a-love-letter-from-my-3-year-old-heart/ </p>
+<p> http://markjohnstone.co/data-cake/ </p>
+<p> https://jobs.zenimax.com/requisitions/view/76 </p>
+<p> https://jobs.zenimax.com/requisitions/view/2080 </p>
+<p> https://www.tableau.com/learn/training </p>
+<p> https://www.tableau.com/learn/training/elearning </p>
+<p> https://www.16personalities.com/profiles/d55ee484a7f41</p>
+<p> http://www.educationplanner.org/students/self-assessments/learning-styles-quiz.shtml</p>
+<p> http://www.testmycreativity.com/</p>
+<p> https://www.gamesave-manager.com/</p>
 
 
 
