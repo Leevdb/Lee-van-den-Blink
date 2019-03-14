@@ -14,7 +14,9 @@ Initially there could be a free account with a limited storage size, with the op
 ### Motivation
 When I think about the number of games I’ve played, and the amount of save data I could lose from a PC crash it's something I would like to try and avoid as much as possible.  All those hours and effort could be lost very easily.  Trawling through back-up archives is an option, but for an average user (including myself) this is intimidating and difficult.  A quick google search reveals there are not many options for a specific game save backup service.  I have used a client called ‘Game Save Manager’ which is very effective at organising the data saved on a local machine to a manual file.  Both back up and restoring or files has to be done manually each time, and required the user to initiate each instance.  I think having a cloud-based service that is user friendly, more streamlined in both backup and restoring data, would be a great piece of mind application that many gamers would potentially invest in.  Many current games copy local saves to a cloud-based server automatically these days, but the vast library of older games are still reliant on local saves, and there is no predicting when some companies cloud services could stop being supported.  There is still a large audience that engage in older software regularly, and the back catalogue is only going to grow.  Additional cloud-based redundancy in this area that is collated into one service could have a lot of potential, and a huge market.   
 
-<i>The current best option - GaveSave Manager - </i> https://www.gamesave-manager.com/
+<p><img src="gsm.png" alt="Game Save Manager"></p>
+
+<p><i>Image: The current best option - GaveSave Manager - </i> https://www.gamesave-manager.com/</p>
 
 ### Description
  
