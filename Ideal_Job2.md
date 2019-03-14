@@ -4,12 +4,12 @@ This was my initial choice for my "Ideal Job".  I still think it would be a very
 
 <b>Job title: Data Analyst
 
-Company: ZeniMax Media Inc. - Bethesda Game Studios </b>
+<b>Company: ZeniMax Media Inc. - Bethesda Game Studios </b>
 
-Link: https://jobs.zenimax.com/requisitions/view/2080
+https://jobs.zenimax.com/requisitions/view/2080
 <img src="Job2.1.png" alt="Job2.1">
 <img src="Job2.2.png" alt="Job2.2">
-<i>Image: Data Analyst Job Listing</i>
+<p><i>Image: Data Analyst Job Listing</i></p>
   
 <b>Position Description:</b>
 
