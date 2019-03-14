@@ -19,68 +19,39 @@
 - 2008 - Advanced Word Training (Long Documents) 
 
 
-<b>Certificate III in Business Administration</b>, 2007 - Link Employment and Training
+<b>Certificate III in Business Administration</b>, - Link Employment and Training, 2007
 
 <b>Kilvington Girls Grammar</b> - Completed VCE certificate, 1997 - 1998
 
-I’m 38 years old, and live with my husband and two young girls.  Melbourne born and raised, my first job after high school was 
-general administration at an importing company as a shipping clerk.  I then moved into the vocational education sector, starting at 
-front desk but as I like to stay busy I often increase the scope of my role quickly when starting at a new workplace.  I currently 
-work part time as an administration and compliance officer at a Registered Training Organisation (RTO) with a small and focused team, 
-and we specialise in delivering VET qualifications in vocational music industry qualifications to schools across australia through 
-auspice arrangements.
+I’m 38 years old, and live with my husband and two young girls.  Melbourne born and raised, my first job after high school was general administration at an importing company as a shipping clerk.  I then moved into the vocational education sector, starting at front desk but as I like to stay busy I often increase the scope of my role quickly when starting at a new workplace.  I currently work part time as an administration and compliance officer at a Registered Training Organisation (RTO) with a small and focused team, and we specialise in delivering VET qualifications in vocational music industry qualifications to schools across australia through auspice arrangements.
 
-I have a lot of different interests, but my biggest passion is video games and I can easily become absolutely absorbed in the 
-worlds and characters.  I seek out the soundtracks and listen to them when  running or driving, or even doing the dishes.  It's 
-fun to make day to day tasks feel more inspired  with an epic soundtrack! I believe this involvement with story telling keeps my 
-imagination active, and I’m incredibly inspired by the design and innovation that is continuously driving this ever evolving market, 
-which I feel runs in parallel with the IT industry and its technology capabilities.  When you look at MMORPGS, MOBAs or any other 
-number of online gaming and streaming services, there is a tonne of  infrastructure and technology involved, often utilising the 
-latest technology advancements at its disposal - and yet people will instantly complain when sound get clippy or frame rates drop!
+I have a lot of different interests, but my biggest passion is video games and I can easily become absolutely absorbed in the worlds and characters.  I seek out the soundtracks and listen to them when  running or driving, or even doing the dishes.  It's fun to make day to day tasks feel more inspired  with an epic soundtrack! I believe this involvement with story telling keeps my imagination active, and I’m incredibly inspired by the design and innovation that is continuously driving this ever evolving market, which I feel runs in parallel with the IT industry and its technology capabilities.  When you look at MMORPGS, MOBAs or any other number of online gaming and streaming services, there is a tonne of  infrastructure and technology involved, often utilising the latest technology advancements at its disposal - and yet people will instantly complain when sound get clippy or frame rates drop!
 
-I also really love listening to podcasts in my spare time as they are a great way to learn new things and make the most out of all 
-that driving time.  My favourites topics for podcasts are history, atheism and recaps podcasts of my favourite tv shows, like 
-Game of Thrones and Better Call Saul.     
+I also really love listening to podcasts in my spare time as they are a great way to learn new things and make the most out of all that driving time.  My favourites topics for podcasts are history, atheism and recaps podcasts of my favourite tv shows, like Game of Thrones and Better Call Saul.     
 
 ## Interest in IT
 
 ### When did your interest in IT start?
 
-I’ve been interested and familiar with computers since a very young age.  I used to play King's quest iv: The Perils of Rosella 
-on my parent's old 486 computer when I was 8, and improved quickly at typing due to all those ‘look at X..’ and ‘use X’ commands. 
-My interest has only grown since then. 
+I’ve been interested and familiar with computers since a very young age.  I used to play King's quest iv: The Perils of Rosella on my parent's old 486 computer when I was 8, and improved quickly at typing due to all those ‘look at X..’ and ‘use X’ commands. My interest has only grown since then. 
 
-<img src="Rosella.png" alt="The Perils of Rosella">
-<i>Image: Rule number 1 of old school adventure games - Make sure you save before you do ANYTHING.  </i>
+<p><img src="Rosella.png" alt="The Perils of Rosella"> </p>
+<p><i>Image: Rule number 1 of old school adventure games - Make sure you save before you do ANYTHING.  </i></p>
 
 https://www.rockpapershotgun.com/2018/04/25/kings-quest-iv-a-love-letter-from-my-3-year-old-heart/
 
 
-Being around computers from a young age made them very normal for me, and I think my natural tendency to try and organise and 
-understand things in my head made understanding computers and how they worked a little easier.  
+Being around computers from a young age made them very normal for me, and I think my natural tendency to try and organise and understand things in my head made understanding computers and how they worked a little easier.  
 
 ### Was there a particular event or person that sparked your interest?
 
-I’ve always been curious and investigative about computers and applications.  Sometimes to my detriment.  For example in year 11 I 
-got the schools recommended laptop.  It came pre-installed with numerous software, most of which I didn’t recognise or think I needed.  
-I jumped into the file explorer and started deleting anything I didn’t recognise, thinking I was just uninstalling programs.  
-The next time I tried to boot up I only got a very cryptic error message.  I’d obviously gone too heavy handed in my haste to 
-‘clean’ my new laptop and deleted something critical to the operating system.  So my first lesson in IT was understand what you’re 
-dealing with before you act.  But I also realised there was a natural curiosity there trying to organise and understand the internal 
-workings of a PC.  There are also other factors that have helped me decide on pursuing my interest further.  Being the Systems 
-Administrator at two previous jobs gave me a lot of contact with IT professionals, and I always took this as an opportunity to learn 
-as much as I could, and a lot of the people I got to know quite well and really respected.  I realised I wanted to be more like them 
-and really understand IT on a much deeper level.     
+I’ve always been curious and investigative about computers and applications.  Sometimes to my detriment.  For example in year 11 I got the schools recommended laptop.  It came pre-installed with numerous software, most of which I didn’t recognise or think I needed. I jumped into the file explorer and started deleting anything I didn’t recognise, thinking I was just uninstalling programs.  The next time I tried to boot up I only got a very cryptic error message.  I’d obviously gone too heavy handed in my haste to ‘clean’ my new laptop and deleted something critical to the operating system.  So my first lesson in IT was understand what you’re dealing with before you act.  But I also realised there was a natural curiosity there trying to organise and understand the internal workings of a PC.  There are also other factors that have helped me decide on pursuing my interest further.  Being the Systems Administrator at two previous jobs gave me a lot of contact with IT professionals, and I always took this as an opportunity to learn as much as I could, and a lot of the people I got to know quite well and really respected.  I realised I wanted to be more like them and really understand IT on a much deeper level.     
 
 
 ### Outline your IT experience 
-I’ve worked with 3 different RTOs over the last decade or so and have learnt a great deal about the industry, but moreover I 
-learnt that I was actually good with this computer thing.  I could solve other peoples technical issues; I could grasp the concepts 
-of what the IT consultants would recommend, although on a somewhat rudimentary level - basically I feel like I can understand the gap 
-between people and systems.  I love extracting and reporting on data and providing insight into the business based on what the 
-database reports.  
+I’ve worked with 3 different RTOs over the last decade or so and have learnt a great deal about the industry, but moreover I learnt that I was actually good with this computer thing.  I could solve other peoples technical issues; I could grasp the concepts of what the IT consultants would recommend, although on a somewhat rudimentary level - basically I feel like I can understand the gap between people and systems.  I love extracting and reporting on data and providing insight into the business based on what the database reports.  
 
-<img src="Cake.png" alt="Data Cake">
+<p><img src="Cake.png" alt="Data Cake"> </p>
 <i>Image: I think Mark Johnstone’s data cake graphic sums up data analysis really well.</i>
 
 http://markjohnstone.co/data-cake/
@@ -153,16 +124,16 @@ Looking past the location requirement, I found a job listing with ZeniMax Media 
 
 ### References
 
-<p> https://www.rockpapershotgun.com/2018/04/25/kings-quest-iv-a-love-letter-from-my-3-year-old-heart/ </p>
-<p> http://markjohnstone.co/data-cake/ </p>
-<p> https://jobs.zenimax.com/requisitions/view/76 </p>
-<p> https://jobs.zenimax.com/requisitions/view/2080 </p>
-<p> https://www.tableau.com/learn/training </p>
-<p> https://www.tableau.com/learn/training/elearning </p>
-<p> https://www.16personalities.com/profiles/d55ee484a7f41</p>
-<p> http://www.educationplanner.org/students/self-assessments/learning-styles-quiz.shtml</p>
-<p> http://www.testmycreativity.com/</p>
-<p> https://www.gamesave-manager.com/</p>
+<p> Rock Paper Shotgun, 2019, Viewed 11/03/2019 https://www.rockpapershotgun.com/2018/04/25/kings-quest-iv-a-love-letter-from-my-3-year-old-heart/ </p>
+<p> Mark Johnstone, Creative Content Marketing, 2016, Viewed 11/03/2019 http://markjohnstone.co/data-cake/ </p>
+<p> Zenimax.com - Reqisitions, Viewed 09/03/2019 https://jobs.zenimax.com/requisitions/view/76 </p>
+<p> Zenimax.com - Reqisitions, Viewed 09/03/2019 https://jobs.zenimax.com/requisitions/view/2080 </p>
+<p> Tableau.com, Viewed 10/03/2019 https://www.tableau.com/learn/training </p>
+<p> Tableau.com, Viewed 10/03/2019 https://www.tableau.com/learn/training/elearning </p>
+<p> 16 Personalities, NERIS Analytics Limited 2019, Viewed 07/03/2019 https://www.16personalities.com/profiles/d55ee484a7f41</p>
+<p> Education Planner, Viewed 07/03/2019 http://www.educationplanner.org/students/self-assessments/learning-styles-quiz.shtml</p>
+<p> Test my Creativity, Viewed 07/03/2019 http://www.testmycreativity.com/</p>
+<p> Game Save Manager, Viewed 11/03/2019 https://www.gamesave-manager.com/</p>
 
 
 
