@@ -30,6 +30,8 @@ work part time as an administration and compliance officer at a Registered Train
 and we specialise in delivering VET qualifications in vocational music industry qualifications to schools across australia through 
 auspice arrangements.
 
+<i>Image: My family</i> 
+
 I have a lot of different interests, but my biggest passion is video games and I can easily become absolutely absorbed in the 
 worlds and characters.  I seek out the soundtracks and listen to them when  running or driving, or even doing the dishes.  It's 
 fun to make day to day tasks feel more inspired  with an epic soundtrack! I believe this involvement with story telling keeps my 
@@ -51,7 +53,9 @@ on my parent's old 486 computer when I was 8, and improved quickly at typing due
 My interest has only grown since then. 
 
 
-<i>Image 2: Rule number 1 of old school adventure games - Make sure you save before you do ANYTHING.  </i>
+<i>Image: Rule number 1 of old school adventure games - Make sure you save before you do ANYTHING.  </i>
+https://www.rockpapershotgun.com/2018/04/25/kings-quest-iv-a-love-letter-from-my-3-year-old-heart/
+
 
 Being around computers from a young age made them very normal for me, and I think my natural tendency to try and organise and 
 understand things in my head made understanding computers and how they worked a little easier.  
@@ -96,7 +100,7 @@ The reason I have chosen Bachelor of IT is I don’t want to limit myself to vid
 
 ## My Ideal Job
 
-When initially looking for my ideal job I originally found a data analyst role that I thought suited me (<a href="url">You can read more about that thought experiment here</a>) , however after thinking about my test results and the sort of work I really enjoy, I continued searching and found the following role, which I believe I would actually enjoy more.  The main reason for the change is I realised that the data analyst role didn’t have as much scope for creativity and presenting original ideas as the Game Programmer role suggests, and I also think I would really enjoy the problem solving element that being a programmer would provide.
+When initially looking for my ideal job I originally found a data analyst role that I thought suited me (<a href="IdealJob2">You can read more about that thought experiment here</a>) , however after thinking about my test results and the sort of work I really enjoy, I continued searching and found the following role, which I believe I would actually enjoy more.  The main reason for the change is I realised that the data analyst role didn’t have as much scope for creativity and presenting original ideas as the Game Programmer role suggests, and I also think I would really enjoy the problem solving element that being a programmer would provide.
 
 ### Job Title - Game Programmer
 <b>Company: ZeniMax Media Inc. - Bethesda Game Studios</b>
