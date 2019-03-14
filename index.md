@@ -99,7 +99,7 @@ The reason I have chosen Bachelor of IT is I don’t want to limit myself to vid
 When initially looking for my ideal job I originally found a data analyst role that I thought suited me (<a href="url">You can read more about that thought experiment here</a>) , however after thinking about my test results and the sort of work I really enjoy, I continued searching and found the following role, which I believe I would actually enjoy more.  The main reason for the change is I realised that the data analyst role didn’t have as much scope for creativity and presenting original ideas as the Game Programmer role suggests, and I also think I would really enjoy the problem solving element that being a programmer would provide.
 
 ### Job Title - Game Programmer
-<b>>Company: ZeniMax Media Inc. - Bethesda Game Studios</b>
+<b>Company: ZeniMax Media Inc. - Bethesda Game Studios</b>
 
 Link: https://jobs.zenimax.com/requisitions/view/76 
 
@@ -128,11 +128,8 @@ Looking past the location requirement, I found a job listing with ZeniMax Media 
 
 <b>Plan to achieve my Ideal job:</b>
 - Complete Bachelor of Information Technology degree
-- Become experience in C++ and object oriented programming 
-This is something I could begin to develop as part of the degree but there is also a vast number of resources available online for learning more about C++, such as youTube or udemy.com to name a few.  
-
-- Development experience, Contributing ideas experience
-This particular aspect of the role I’m not sure on how i could go about getting this.  It could develop naturally through development of programming knowledge, and maybe via an entry level programming for software development job as a starting point.   
+- Become experience in C++ and object oriented programming - This is something I could begin to develop as part of the degree but there is also a vast number of resources available online for learning more about C++, such as youTube or udemy.com to name a few.  
+- Development experience, Contributing ideas experience - This particular aspect of the role I’m not sure on how i could go about getting this.  It could develop naturally through development of programming knowledge, and maybe via an entry level programming for software development job as a starting point.   
 
 
 
