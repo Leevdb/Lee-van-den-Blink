@@ -24,15 +24,7 @@ The Client should have a very user-friendly interface, with enough information o
 - Game client installed (such as Steam, Origin, etc.) and the games associated with each client
 - Non client games installed locally.
 
-<p><a href="https://leevdb.github.io/Lee-van-den-Blink/profile">My Personal Profile</a></p>
-<p><a href="https://leevdb.github.io/Lee-van-den-Blink/Project">My Project Idea</a></p>
-<p><a href="https://leevdb.github.io/Lee-van-den-Blink/">Back to the home page</a></p>
-
-
-
-
-
- It would list the games found to the user, indicating the file path, file size, and associated client if applicable.  At this point there should be an option for the user to manually add games and file paths if they were not automatically found by the scan.  This may be required if games are not saved with the default file paths.
+It would list the games found to the user, indicating the file path, file size, and associated client if applicable.  At this point there should be an option for the user to manually add games and file paths if they were not automatically found by the scan.  This may be required if games are not saved with the default file paths.
  
 Once the index list is completed the backup is performed, and files are stored with the above information to the client server.  This could be a one-off backup and restore, or a regular sync could be set up and the frequency of this could be determined by the user, such as once a week for example.
  
@@ -68,6 +60,11 @@ I do have some doubts that maybe there is no real need for this all-in-one servi
 ## Outcome
 The concept for Smiling Game Saver is very much in the ideas phase and to roll out would take a lot of work, time and money to set up and roll out, however I don’t think the market for this service is very crowded and yet the video game industry and audience is huge and constantly growing.  An application such as this that is straightforward and easy to use, should have potential for a large demographic as its audience.
 
+
+
+<p><a href="https://leevdb.github.io/Lee-van-den-Blink/profile">My Personal Profile</a></p>
+<p><a href="https://leevdb.github.io/Lee-van-den-Blink/Project">My Project Idea</a></p>
+<p><a href="https://leevdb.github.io/Lee-van-den-Blink/">Back to the home page</a></p>
 
 
 
