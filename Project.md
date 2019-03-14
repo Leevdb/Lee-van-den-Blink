@@ -16,7 +16,8 @@ When I think about the number of games I’ve played, and the amount of save dat
 
 <p><img src="gsm.png" alt="Game Save Manager"></p>
 
-<p><i>Image: The current best option - GaveSave Manager - </i> https://www.gamesave-manager.com/</p>
+<p><i>Image: The current best option - GaveSave Manager - </i> </p>
+<p> <a href="https://www.gamesave-manager.com/">https://www.gamesave-manager.com/</a></p>
 
 ### Description
  
