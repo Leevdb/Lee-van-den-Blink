@@ -71,7 +71,7 @@ The reason I have chosen Bachelor of IT is I don’t want to limit myself to vid
 
 ## My Ideal Job
 
-When initially looking for my ideal job I originally found a data analyst role that I thought suited me (<a href="Ideal_Job2">You can read more about that thought experiment here</a>) , however after thinking about my test results and the sort of work I really enjoy, I continued searching and found the following role, which I believe I would actually enjoy more.  The main reason for the change is I realised that the data analyst role didn’t have as much scope for creativity and presenting original ideas as the Game Programmer role suggests, and I also think I would really enjoy the problem solving element that being a programmer would provide.
+When initially looking for my ideal job I originally found a data analyst role that I thought suited me (<a href="https://leevdb.github.io/Lee-van-den-Blink/Ideal_Job2">You can read more about that thought experiment here</a>) , however after thinking about my test results and the sort of work I really enjoy, I continued searching and found the following role, which I believe I would actually enjoy more.  The main reason for the change is I realised that the data analyst role didn’t have as much scope for creativity and presenting original ideas as the Game Programmer role suggests, and I also think I would really enjoy the problem solving element that being a programmer would provide.
 
 ### Job Title - Game Programmer
 
