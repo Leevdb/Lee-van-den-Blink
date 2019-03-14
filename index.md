@@ -78,6 +78,6 @@ between people and systems.  I love extracting and reporting on data and providi
 database reports.  
 
 
-<p><a href="https://leevdb.github.io/Lee-van-den-Blink/profile.md">My Personal Profile</a></p>
-<p><a href="https://leevdb.github.io/Lee-van-den-Blink/Project.md">My Project Idea</a></p>
+<p><a href="https://leevdb.github.io/Lee-van-den-Blink/profile">My Personal Profile</a></p>
+<p><a href="https://leevdb.github.io/Lee-van-den-Blink/Project">My Project Idea</a></p>
 <p><a href="https://leevdb.github.io/Lee-van-den-Blink/">Back to the home page</a></p>
