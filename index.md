@@ -56,7 +56,7 @@ My interest has only grown since then.
 Being around computers from a young age made them very normal for me, and I think my natural tendency to try and organise and 
 understand things in my head made understanding computers and how they worked a little easier.  
 
-## Was there a particular event or person that sparked your interest?
+### Was there a particular event or person that sparked your interest?
 
 I’ve always been curious and investigative about computers and applications.  Sometimes to my detriment.  For example in year 11 I 
 got the schools recommended laptop.  It came pre-installed with numerous software, most of which I didn’t recognise or think I needed.  
@@ -77,6 +77,66 @@ of what the IT consultants would recommend, although on a somewhat rudimentary l
 between people and systems.  I love extracting and reporting on data and providing insight into the business based on what the 
 database reports.  
 
+
+<i>Image:  I think Mark Johnstone’s data cake graphic sums up data analysis really well.</i>
+http://markjohnstone.co/data-cake/
+
+
+I’ve also been heavily involved in system migration and have ran introductory training session for system migrations.  The first was moving from  Microsoft exchange to the Gmail Suitel, and again when we switched our Student Management System (SMS) software providers.  Also being involved with student management systems and RTO reporting rules,  there is a significant  amount of data error troubleshooting, and I have always enjoyed solving those puzzles.
+
+### What is your interest in IT?
+
+I feel like my ability to understand IT and computers is something I should pursue further, as its already something I enjoy, and could potentially be very successful with.  My two main areas of interest in IT are data organisation/analysis, and learning more about software development and programming, with the hope of this one day leading me to be involved in the development of video games or if not games, then to be involved in software or system development.    
+
+### Why did you choose to come to RMIT?
+Being someone with an already full plate due to a young family and work commitments,  I knew online study was my only realistic option.  My husband had also recently completed his Graduate Certificate in Business with RMIT last year, and he added that studying at a Melbourne based university was potentially helpful for group assignments, plus the general lay out the Learning Management System worked well, which gave me another vote of confidence.  RMIT is also a very highly rated university so it would mean the degree has a prestigious name attached to it.
+
+### What do you expect to learn during your studies?
+The reason I have chosen Bachelor of IT is I don’t want to limit myself to video game design concepts only.  All business’ need IT of some description, whether it’s through a consultation service or housing their own staff or department, and I think I understand the gap between end users and systems.  Specifically I’d like to develop my knowledge of  API integration and its potential, learn more about programming languages and software development (including but not limited to game design), and how IT projects are planned, costed and managed.  
+
+## My Ideal Job
+
+When initially looking for my ideal job I originally found a data analyst role that I thought suited me (<a href="url">You can read more about that thought experiment here</a>) , however after thinking about my test results and the sort of work I really enjoy, I continued searching and found the following role, which I believe I would actually enjoy more.  The main reason for the change is I realised that the data analyst role didn’t have as much scope for creativity and presenting original ideas as the Game Programmer role suggests, and I also think I would really enjoy the problem solving element that being a programmer would provide.
+
+### Job Title - Game Programmer
+<b>>Company: ZeniMax Media Inc. - Bethesda Game Studios</b>
+
+Link: https://jobs.zenimax.com/requisitions/view/76 
+
+<i>Image 4: Game Programmer job listing</i>
+
+<b>Position Description:</b>
+Looking past the location requirement, I found a job listing with ZeniMax Media for a Game Programmer.  The role is working in a team to write and develop specific code for a larger game project.  There would be a lot of solo programming work while also working closely with many other areas of game development.  
+
+
+<b>Required Skills, qualifications and experience:</b>
+- Bachelor of Science in Computer Science or Mathematics
+- Proficiency with C++ and object oriented programming
+- Development experience (in both game industry and on consoles)
+- Contribute ideas to game production and development
+- Strong communication and organisational skills
+- Ability to work under pressure and prioritise multiple tasks
+- Passion for making GREAT games
+- Experience playing previous Bethesda Game Studios games
+
+<b>My current Skills, qualifications and experience:</b>
+- Strong communication and organisational skills
+- Ability to work under pressure and prioritise multiple tasks
+- Passion for making GREAT games
+- Experience playing previous Bethesda Game Studios games (Elder Scrolls series, Fallout series, Prey, Dishonoured, Doom)
+- Project management experience (note - not related to games industry)
+
+<b>Plan to achieve my Ideal job:</b>
+- Complete Bachelor of Information Technology degree
+- Become experience in C++ and object oriented programming 
+This is something I could begin to develop as part of the degree but there is also a vast number of resources available online for learning more about C++, such as youTube or udemy.com to name a few.  
+
+- Development experience, Contributing ideas experience
+This particular aspect of the role I’m not sure on how i could go about getting this.  It could develop naturally through development of programming knowledge, and maybe via an entry level programming for software development job as a starting point.   
+
+
+
+<hr>
 
 <p><a href="https://leevdb.github.io/Lee-van-den-Blink/profile">My Personal Profile</a></p>
 <p><a href="https://leevdb.github.io/Lee-van-den-Blink/Project">My Project Idea</a></p>
