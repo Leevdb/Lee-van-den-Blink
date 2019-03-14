@@ -131,7 +131,7 @@ Looking past the location requirement, I found a job listing with ZeniMax Media 
 - Project management experience (note - not related to games industry)
 
 <b>Plan to achieve my Ideal job:</b>
-- Complete Bachelor of Information Technology degree
+- Complete Bachelor of Information Technology Degree
 - Become experience in C++ and object oriented programming - This is something I could begin to develop as part of the degree but there is also a vast number of resources available online for learning more about C++, such as youTube or udemy.com to name a few.  
 - Development experience, Contributing ideas experience - This particular aspect of the role I’m not sure on how i could go about getting this.  It could develop naturally through development of programming knowledge, and maybe via an entry level programming for software development job as a starting point.   
 
