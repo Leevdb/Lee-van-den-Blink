@@ -1,28 +1,27 @@
 # Personal Information
 
 ## Lee van den Blink
-RMIT Student # 3792973
-RMIT Email: s3792973@student.rmit.edu.au
-Personal email lee.vandenblink@gmail.com
-Language spoken: English 
-Religion: Atheist
+- RMIT Student # 3792973
+- RMIT Email: s3792973@student.rmit.edu.au<
+- Personal email lee.vandenblink@gmail.com
+- Language spoken: English
+- Religion: Atheist
 
-### Education: 
+### Education 
 
 <b>Short Courses</b>
-2014 - Essentials for the Internal Auditor
-2012 - Advanced Microsoft Excel training
-2012 - Intermediate Microsoft Access training
-2011 - RPL Workshop
-2010 - Adobe Dreamweaver training 
-2010 - Adobe Flash training 
-2008 - Advanced Word Training (Long Documents) 
+- 2014 - Essentials for the Internal Auditor
+- 2012 - Advanced Microsoft Excel training
+- 2012 - Intermediate Microsoft Access training
+- 2011 - RPL Workshop
+- 2010 - Adobe Dreamweaver training 
+- 2010 - Adobe Flash training 
+- 2008 - Advanced Word Training (Long Documents) 
 
-Link Employment and Training 	
-Certificate III in Business Administration, 2007
 
-Kilvington Girls Grammar     
-Completed VCE certificate, 1997 - 1998
+<b>Certificate III in Business Administration</b>, 2007 - Link Employment and Training
+
+<b>Kilvington Girls Grammar<b/> - Completed VCE certificate, 1997 - 1998
 
 I’m 38 years old, and live with my husband and two young girls.  Melbourne born and raised, my first job after high school was 
 general administration at an importing company as a shipping clerk.  I then moved into the vocational education sector, starting at 
