@@ -34,11 +34,11 @@ Weakest areas: Boldness, Connection, Persistence
 
 
 ## What do the results of these tests mean for you?
-The most revealing test to me was the Myers-Briggs test.  I wasn’t sure where i was on the emotional/logical scale as sometimes I feel like I have both.  Having a result like above basically confirm this was very affirming.  The result type I got was I think a very positive personality type and my specific results had a fairly even balance between the opposing traits.  Many of the traits mentioned felt true to me when reading this result type, such as being someone who likes to do things to a high standard, and take on the ‘boring’ tasks if thats whats required.  I also do tend to have pretty good relationships in my workplaces.
+The most revealing test to me was the Myers-Briggs test.  I wasn’t sure where I was on the emotional/logical scale as sometimes I feel like I have both.  Having a result like above basically confirm this was very affirming.  The result type I got was I think a very positive personality type for a team, and my specific results had a fairly even balance between the opposing traits.  Many of the traits mentioned felt true to me when reading this result type, such as being someone who likes to do things to a high standard, and take on the ‘boring’ tasks if thats whats required.  I also do tend to have pretty good relationships in my workplaces.
 
 I already had a good idea that I was an audio/visual learner, as I usually like to listen to music while I work on something and I find it helps me concentrate, and I also love to represent things in charts and graphs as I feel sometimes a graphic is worth more then the sum of its parts.
 
-The creativity test was a positive result for me as I’ve often doubted my own creativity, but I’m realising that I do have some aptitude for this.  Problem solving requires one to have some lateral thinking capability to be truly effective, and I imagine this is a big part of programming and IT in general.  There is no one size fits all in software development or business in general and in most cases hings will always need to be adapted.
+The creativity test was a positive result for me as I’ve often doubted my own creativity, but I’m realising that I do have some aptitude for this.  Problem solving requires one to have some lateral thinking capability to be truly effective, and I imagine this is a big part of programming and IT in general.  There is no one size fits all in software development or business in general and in most cases things will always need to be adapted.
 
 
 
